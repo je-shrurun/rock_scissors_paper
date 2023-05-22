@@ -1,3 +1,4 @@
+// 리팩토링 된 코드 
 import { CircleData } from "./circleData.js";
 import { Item } from "./item.js";
 
